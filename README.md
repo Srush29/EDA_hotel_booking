@@ -1,11 +1,12 @@
 # Recipe of a hotel booking cancellation
 
-### Your thriving hospitality suffers when someone cancels. But what if there were patterns to who cancels when and you could better prepare yourself for it. With this project we will explore this idea, with a dataset containing hotel booking details of hundreds of guests from around the world.
-## With some key attributes complied in this dataset with respect to bookings, we try to analyze if they have any influence on cancelation. If there are patterns that help us make better decisions going forward it would always be helpful.
+# Your thriving hospitality suffers when someone cancels. But what if there were patterns to who cancels when and you could better prepare yourself for it. With this project we will explore this idea, with a dataset containing hotel booking details of hundreds of guests from around the world.
 
-# In this exploratory data analysis task, we find what leads to cancellation and answer a few other business questions to increase our revenue.
+# With some key attributes complied in this dataset with respect to bookings, we try to analyze if they have any influence on cancelation. If there are patterns that help us make better decisions going forward it would always be helpful.
 
-# The Data: Here are the variables you will find in your data file:
+In this exploratory data analysis task, we find what leads to cancellation and answer a few other business questions to increase our revenue.
+
+The Data: Here are the variables you will find in your data file:
 
 •IsCanceled: Categorical Value indicating if the booking was canceled (1) or not (0)
 
